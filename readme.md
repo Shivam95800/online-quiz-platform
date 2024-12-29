@@ -4,7 +4,7 @@ This is a clone of an existing exam portal ([freeonlinetest.in](https://www.free
 
 # Website-Preview
 
-<img src="img/Website.png" alt="" height="300" width="650"/>
+<img src="img/website1.png" alt="" height="300" width="650"/>
 
 # References
 
