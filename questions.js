@@ -32,7 +32,7 @@ export const ques = [
     {
         "question": "How do you write a comment in Python?",
         "type": "radio",
-        "options": ["//", "#", "/*", "<!--"],
+        "options": ["//", "#", "/*", "!"],
         "answer": "#"
     },
     {
