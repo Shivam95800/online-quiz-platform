@@ -1,1 +1,105 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+
+
+
+#check {
+    /* font-family: Arial, sans-serif; */
+    font-family: 'Comic Neue', cursive;
+    background-color: #f9f9f9;
+    /* font-size: 20px; */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+/* section {
+    margin: 50px auto;
+    width: 300px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+} */
+
+#signup-section{
+    margin: 50px auto;
+    width: 300px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+#signin-section{
+    margin: 50px auto;
+    width: 300px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+} */
+
+#hare {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+form input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+/* p {
+    font-size: 14px;
+} */
+
+#krishna {
+    font-size: 14px;
+}
+
+/* a {
+    color: #007bff;
+    text-decoration: none;
+} */
+
+#go-to-signin {
+    color: #007bff;
+    text-decoration: none;
+}
+
+#go-to-signin:hover {
+    text-decoration: underline;
+}
