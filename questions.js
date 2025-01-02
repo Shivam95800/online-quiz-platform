@@ -115,9 +115,8 @@ export const ques = [
         "answer": "2"
     },
     {
-        "question": "Which of the following is not a core data type in Python?",
-        "type": "radio",
-        "options": ["Lists", "Dictionary", "Tuples", "Class"],
-        "answer": "Class"
+        "question": "What is the output of len('Hello World')?",
+        "type": "numerical",
+        "answer": 11
     }
 ];
