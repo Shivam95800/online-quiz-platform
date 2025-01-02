@@ -73,31 +73,31 @@ export const ques = [
     },
     {
         "question": "Which of the following are Python data types?",
-        "type": "multiple_select",
+        "type": "checkbox",
         "options": ["Integer", "String", "Array", "Boolean"],
         "answer": ["Integer", "String", "Boolean"]
     },
     {
         "question": "Which of the following operators are used for comparison in Python?",
-        "type": "multiple_select",
+        "type": "checkbox",
         "options": ["==", "!=", "=", "<"],
         "answer": ["==", "!=", "<"]
     },
     {
         "question": "Which of these keywords are used to define a function in Python?",
-        "type": "multiple_select",
+        "type": "checkbox",
         "options": ["def", "function", "lambda", "func"],
         "answer": ["def", "lambda"]
     },
     {
         "question": "Which of these methods are used for string operations in Python?",
-        "type": "multiple_select",
+        "type": "checkbox",
         "options": [".append()", ".replace()", ".split()", ".upper()"],
         "answer": [".replace()", ".split()", ".upper()"]
     },
     {
         "question": "Which of these are valid Python looping constructs?",
-        "type": "multiple_select",
+        "type": "checkbox",
         "options": ["for", "while", "do-while", "foreach"],
         "answer": ["for", "while"]
     },
