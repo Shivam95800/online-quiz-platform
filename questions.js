@@ -116,7 +116,8 @@ export const ques = [
     },
     {
         "question": "What is the output of len('Hello World')?",
-        "type": "numerical",
-        "answer": 11
+        "type": "radio",
+        "options": ["12", "10", "11", "13"],
+        "answer": "11"
     }
 ];
