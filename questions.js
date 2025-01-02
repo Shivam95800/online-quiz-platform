@@ -72,35 +72,36 @@ export const ques = [
         "answer": "Returns the length of an object"
     },
     {
-        "question": "What is the correct syntax for creating a class in Python?",
-        "type": "radio",
-        "options": ["class MyClass:", "create MyClass:", "define MyClass:", "class:MyClass"],
-        "answer": "class MyClass:"
+        "question": "Which of the following are Python data types?",
+        "type": "multiple_select",
+        "options": ["Integer", "String", "Array", "Boolean"],
+        "answer": ["Integer", "String", "Boolean"]
     },
     {
-        "question": "Which of the following is used to handle exceptions in Python?",
-        "type": "radio",
-        "options": ["try...except", "do...while", "if...else", "for...else"],
-        "answer": "try...except"
+        "question": "Which of the following operators are used for comparison in Python?",
+        "type": "multiple_select",
+        "options": ["==", "!=", "=", "<"],
+        "answer": ["==", "!=", "<"]
     },
     {
-        "question": "How do you create a dictionary in Python?",
-        "type": "radio",
-        "options": ["dict = {}", "dict = []", "dict = ()", "dict = <>"],
-        "answer": "dict = {}"
+        "question": "Which of these keywords are used to define a function in Python?",
+        "type": "multiple_select",
+        "options": ["def", "function", "lambda", "func"],
+        "answer": ["def", "lambda"]
     },
     {
-        "question": "What will be the output of the following code? print(\"Hello\"[1])",
-        "type": "radio",
-        "options": ["H", "e", "l", "o"],
-        "answer": "e"
+        "question": "Which of these methods are used for string operations in Python?",
+        "type": "multiple_select",
+        "options": [".append()", ".replace()", ".split()", ".upper()"],
+        "answer": [".replace()", ".split()", ".upper()"]
     },
     {
-        "question": "Which of the following is the correct way to import a module named 'math'?",
-        "type": "radio",
-        "options": ["import math", "import Math", "include math", "using math"],
-        "answer": "import math"
+        "question": "Which of these are valid Python looping constructs?",
+        "type": "multiple_select",
+        "options": ["for", "while", "do-while", "foreach"],
+        "answer": ["for", "while"]
     },
+
     {
         "question": "Which operator is used to multiply numbers in Python?",
         "type": "radio",
